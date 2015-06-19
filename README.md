@@ -1,4 +1,2 @@
-# pymisc
-
-## misc python code repo
+# misc python code repo
 just for practice
